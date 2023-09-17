@@ -37,3 +37,9 @@ If you have zls available on PATH, ZigBrains will automatically discover it. If 
 1. Download or compile the ZLS language server, available at https://github.com/zigtools/zls
 2. Go to Settings -> Languages & Frameworks -> ZLS -> ZLS path -> set the path to the zls executable you downloaded or compiled
 3. Open a .zig file, and wait for the circle in the bottom status bar to turn Green (empty). See below for an explanation on what the circle means.
+
+
+![e3735tmd](https://github.com/tanangular/learning_zig/assets/1311673/640e062a-4f98-4e44-963a-cd42b0bf5b6d)
+![3125r3cb](https://github.com/tanangular/learning_zig/assets/1311673/b93f71ab-df90-4507-a7e9-190220bfe08d)
+![3byz3ll6](https://github.com/tanangular/learning_zig/assets/1311673/e7ae9e95-0f3c-446f-8cee-ee5b0871e1c2)
+
