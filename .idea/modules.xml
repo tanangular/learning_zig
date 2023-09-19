@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/learning rust.iml" filepath="$PROJECT_DIR$/.idea/learning rust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning zig.iml" filepath="$PROJECT_DIR$/.idea/learning zig.iml" />
     </modules>
   </component>
 </project>
